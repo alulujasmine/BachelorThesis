@@ -1,5 +1,6 @@
 # BachelorThesis
-This is my Bachelor's thesis on river wetland ecological engineering. 
+This is my Bachelor's thesis titled "The Technology Systerm of River Wetland Restoration -- Huxi River as a Case Study" on river wetland ecological engineering. 
+
 It includes five main chapters.
 
 The third, fifth and sixth chapters are the main parts.
